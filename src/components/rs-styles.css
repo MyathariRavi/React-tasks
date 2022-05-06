@@ -1,0 +1,22 @@
+.btn{
+    display: block;
+    background-color: black;
+    margin:5;
+    color:  white;
+    transition: background-color;
+    transition-delay: 0.5s;
+
+}
+.form{
+    width:500px,
+    
+}
+.btn:hover{
+    background-color: white;
+    color:black;
+    border-color: brown;
+    border-width: 3px;
+    outline: none;
+    
+    
+}

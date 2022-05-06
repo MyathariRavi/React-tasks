@@ -1,0 +1,71 @@
+/* import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Radio+Canada:wght@500&family=Roboto+Condensed:wght@300;400&family=Roboto+Mono:wght@200;400&display=swap'); */
+
+.card-block{
+    display: block;
+    width:600px;
+    color:white;
+    position: relative;
+    /* height: fit-content; */
+    height: 500px;
+    justify-content: center;
+    margin-top:5%;
+    left:25%;
+    background-color: whitesmoke;
+    padding: 25px;
+    background-image:linear-gradient(45deg,black,black,black)
+}
+label{
+    padding: 10px 0;
+}
+.input-pegs{
+    display: grid;
+    margin: 10px 0px;
+}
+
+.title{
+    font-family:serif;
+    font-weight: bold;
+    font-size: 400;
+    text-align: center;
+    margin-bottom: 25px;
+    
+}
+
+.form{
+    margin: 15px 35px;
+}
+
+input{
+    border: 12px;
+    border-radius: 5px;
+    border-color:blue;
+    padding: 10px 15px;
+    background-color:antiquewhite;
+    
+}
+
+.fp-text{
+    text-align: end;
+    font-size:small;
+
+}
+.su-text{
+    text-align: center;
+    font-size:small;
+    margin-top: 20px;
+}
+
+.btn{
+    margin: 15px 0px;
+    /* padding:0px 25px; */
+    background-color: blueviolet;
+    width: 100%;
+    font-family: 'Roboto Mono', monospace;
+    font-size:larger;
+}
+
+
+
+span a{
+    text-decoration: none;
+}
